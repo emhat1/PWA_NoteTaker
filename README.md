@@ -12,7 +12,7 @@
 - [Questions](#Questions)
 
 ## Installation 
-<p>To install this application please follow these instructions: The app is web-based, and can be run from https://emhat1.github.io/PWA_NoteTaker/<p> 
+<p>To install this application please follow these instructions: The app is web-based, and can be run from https://pwa-note-taker.herokuapp.com/<p> 
 
 ## License 
 <p> This application is covered under the: License: MIT License - https://opensource.org/licenses/MIT
